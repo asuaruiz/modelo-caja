@@ -1,0 +1,23 @@
+div {
+	width: 700px;
+	height: auto;
+	padding-top: 20px;
+	padding-bottom: 35px;
+	padding-right:15px; 
+	padding-left:50px;
+	margin:100px;
+	border-top: 20px solid rgb(153,0,255);
+	border-bottom: 20px solid rgb(153,0,255);
+	border-left: 10px solid rgb(153,0,255);
+	border-right: 10px solid rgb(153,0,255);
+	background-color: rgb(249,203,156);
+}
+p {
+	height: 30px;
+	padding-top: 10px;
+	width: auto;
+	border: dashed black;
+	text-align: center;
+	background-color: white;
+
+}
